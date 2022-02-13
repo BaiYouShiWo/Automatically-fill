@@ -10,3 +10,6 @@ Most importantly,we need the answer of the English listening test(for example,I 
 And then a VirtualBox Android is needed ,and run TianXuewang on it,and start a listening test.
 The last step is to run the main.py .
 
+tips:
+The environment I'm using is Python 3.8.8 (you can run "python -m pip install -r requirements.txt"to got the needed package)
+The editor I use is vscode
